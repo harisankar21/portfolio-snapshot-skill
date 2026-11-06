@@ -1,0 +1,7 @@
+key,value
+target_inr,50000000
+target_basis,nominal
+monthly_investment,0
+annual_stepup_pct,10
+inflation_pct,6
+target_date,

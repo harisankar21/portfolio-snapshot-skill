@@ -1,0 +1,4 @@
+# Never commit your real data
+*.pdf
+my-data/
+net_worth_snapshots.local.csv
